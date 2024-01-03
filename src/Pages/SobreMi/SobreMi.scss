@@ -1,0 +1,41 @@
+.sobre-mi-page {
+  width: 100vw;
+  padding-top: 130px;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  animation-name: proyectos-page-fadein;
+  animation-duration: 0.7s;
+  animation-iteration-count: initial;
+
+  .sobre-mi-title-container {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 25px;
+    border-radius: 2rem;
+    background-color: rgba(130, 130, 130, 0.05);
+    backdrop-filter: blur(10px);
+
+    .title-img-sobre-mi {
+      display: flex;
+      align-self: flex-start;
+      align-items: center;
+      gap: 15px;
+
+      img {
+        filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        text-shadow: 0px 0px 2px rgb(200, 200, 200);
+      }
+    }
+  }
+}

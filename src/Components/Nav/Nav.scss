@@ -1,0 +1,152 @@
+.nav-container {
+  width: 100vw;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: aliceblue;
+  background-color: #000000e0;
+  display: flex;
+  z-index: 999;
+
+  .logo-texts {
+    width: 400px;
+    height: 100%;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    img {
+      height: 100%;
+    }
+
+    .text {
+
+      h1 {
+        text-shadow: 0px 0px 2px rgb(200, 200, 200);
+      }
+
+      h3 {
+        font-size: 1rem;
+        color: rgb(206, 0, 0);
+        text-shadow: 0px 0px 2px red;
+        letter-spacing: 1px;
+      }
+    }
+  }
+
+  .buttons-nav {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+
+    .buttons-container {
+      position: relative;
+      width: 650px;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+
+      .selector-nav {
+        position: absolute;
+        height: 5px;
+        bottom: 25px;
+        border-radius: 2px;
+        box-shadow: 0px 0px 5px red;
+        background-color: red;
+        transition: 0.3s;
+      }
+
+      .link-nav {
+        position: relative;
+        width: 150px;
+        height: 40px;
+        padding: 5px 10px;
+        text-decoration: none;
+        text-align: center;
+        display: grid;
+        place-content: center;
+
+        p {
+          transition: 0.3s;
+        }
+
+        img{
+          width: 40px;
+          display: none;
+          transition: 0.3s;
+        }
+      }
+    }
+  }
+}
+
+.active {
+  p {
+    color: rgb(206, 0, 0);
+    text-shadow: 0px 0px 2px red;
+  }
+  img{
+    filter: drop-shadow(0 0 5px rgb(206, 0, 0));
+  }
+}
+
+
+@media (width < 1100px) {
+  .nav-container {
+    display: flex;
+    justify-content: center;
+
+    .logo-texts{
+      justify-content: center;
+    }
+
+    .buttons-nav {
+      position: fixed;
+      height: 60px;
+      width: 100%;
+      left: 0;
+      bottom: 0px;
+      background-color: #151515bd;
+      backdrop-filter: blur(1px);
+
+      .buttons-container {
+        width: 100%;
+        justify-content: space-evenly;
+        align-items: center;
+
+        .selector-nav {
+          display: none;
+        }
+
+        .link-nav {
+          padding: 5px;
+          width: auto;
+          display: grid;
+          place-content: center;
+        }
+      }
+    }
+  }
+}
+
+@media (width < 700px){
+  .nav-container{
+    .buttons-nav{
+      .buttons-container{
+        .link-nav{
+          p{
+            display: none;
+          }
+          img{
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+}

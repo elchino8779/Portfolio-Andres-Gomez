@@ -1,0 +1,201 @@
+.contact-form-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+
+  .modal-form-container {
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    border-radius: 1rem;
+    border: 1px solid rgb(206, 0, 0);
+    box-shadow: 0 0 5px rgb(206, 0, 0);
+    background-color: rgba(35, 35, 35, 0.7);
+    backdrop-filter: blur(10px);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    animation-name: check-fadein;
+    animation-duration: 0.3s;
+    animation-iteration-count: initial;
+
+    p {
+      font-size: 0.9rem;
+      text-align: center;
+      white-space: pre-wrap;
+    }
+  }
+
+  p {
+    text-align: center;
+    font-size: 0.9rem;
+  }
+
+  form {
+    width: 100%;
+    padding: 20px;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    border: 1px solid rgb(35, 35, 35, 0.5);
+    background-color: rgba(35, 35, 35, 0.5);
+    backdrop-filter: blur(10px);
+
+    label {
+      font-size: 0.9rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      img {
+        animation-name: check-fadein;
+        animation-duration: 0.5s;
+        animation-iteration-count: initial;
+      }
+    }
+
+    .input-no-validate {
+      margin-bottom: 10px;
+      height: 35px;
+      border-radius: 10px;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      outline: none;
+      padding-left: 10px;
+      padding-right: 10px;
+      transition: 0.3s;
+
+      &:focus {
+        border: 2px solid rgb(206, 0, 0);
+        box-shadow: 0 0 5px rgb(206, 0, 0);
+        background-color: rgba(15, 15, 15, 0.8);
+      }
+    }
+
+    .input-yes-validate {
+      margin-bottom: 10px;
+      height: 35px;
+      border-radius: 10px;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      outline: none;
+      padding-left: 10px;
+      padding-right: 10px;
+      transition: 0.3s;
+
+      &:focus {
+        border: 2px solid #00b341;
+        box-shadow: 0 0 5px #00b342ae;
+        background-color: rgba(15, 15, 15, 0.8);
+      }
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    .textarea-no-validate {
+      border-radius: 10px;
+      resize: none;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      outline: none;
+      padding: 10px;
+      margin-bottom: 10px;
+      transition: 0.3s;
+
+      &:focus {
+        border: 2px solid rgb(206, 0, 0);
+        box-shadow: 0 0 5px rgb(206, 0, 0);
+        background-color: rgba(15, 15, 15, 0.8);
+      }
+    }
+
+    .textarea-yes-validate {
+      border-radius: 10px;
+      resize: none;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      outline: none;
+      padding: 10px;
+      margin-bottom: 10px;
+      transition: 0.3s;
+
+      &:focus {
+        border: 2px solid #00b341;
+        box-shadow: 0 0 5px #00b342ae;
+        background-color: rgba(15, 15, 15, 0.8);
+      }
+    }
+
+    .button-no-validate {
+      width: 80px;
+      height: 35px;
+      align-self: center;
+      border-radius: 7px;
+      border: none;
+      outline: none;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      backdrop-filter: blur(10px);
+      transition: 0.3s;
+    }
+
+    .button-yes-validate {
+      width: 80px;
+      height: 35px;
+      align-self: center;
+      border-radius: 7px;
+      border: none;
+      outline: none;
+      border: 2px solid rgb(35, 35, 35, 0.5);
+      background-color: rgba(35, 35, 35, 0.5);
+      backdrop-filter: blur(10px);
+      animation-name: validate-button;
+      animation-duration: 5s;
+      animation-iteration-count: initial;
+      transition: 0.3s;
+
+      &:hover {
+        border: 2px solid #00b341;
+        box-shadow: 0 0 5px #00b342ae;
+      }
+    }
+  }
+}
+
+
+@keyframes check-fadein {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  100% {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+@keyframes validate-button {
+  0% {
+    border: 2px solid rgb(35, 35, 35, 0.5);
+  }
+
+  50% {
+    border: 2px solid #00b341;
+    box-shadow: 0 0 5px #00b342ae;
+  }
+
+  100% {
+    border: 2px solid rgb(35, 35, 35, 0.5);
+  }
+}

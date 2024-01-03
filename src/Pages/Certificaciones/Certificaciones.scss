@@ -1,0 +1,140 @@
+.certificaciones-page {
+  width: 100vw;
+  padding-top: 130px;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 70px;
+  animation-name: certificaciones-page-fadein;
+  animation-duration: 0.7s;
+  animation-iteration-count: initial;
+
+  .certificaciones-title-container {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 40px 25px;
+    border-radius: 2rem;
+    background-color: rgba(130, 130, 130, 0.05);
+    backdrop-filter: blur(10px);
+
+    .title-img-certificate {
+      display: flex;
+      align-self: flex-start;
+      align-items: center;
+      gap: 15px;
+
+      img {
+        filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        text-shadow: 0px 0px 2px rgb(200, 200, 200);
+      }
+    }
+
+    .certificaciones-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .edutubers-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .lenguajes-tecnologias-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+
+      .img-name-container {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        transition: 0.3s;
+
+        &:hover>p {
+          opacity: 1;
+          visibility: visible;
+        }
+
+        &:hover>img {
+          filter: drop-shadow(0 0 3px rgb(88, 88, 88));
+          transform: scale(1.05);
+          transform: translateY(-5px);
+        }
+
+
+        img {
+          width: 90px;
+          filter: drop-shadow(0 0 1px rgb(126, 126, 126));
+          transition: 0.3s;
+          
+        }
+
+        p {
+          font-size: 0.8rem;
+          opacity: 0;
+          visibility: hidden;
+          padding: 5px 10px;
+          border-radius: 10px;
+          border: 1px solid rgb(125, 125, 125);
+          box-shadow: 0 0 2px rgb(125, 125, 125);
+          background-color: rgba(35, 35, 35, 0.5);
+          backdrop-filter: blur(10px);
+          transition: 0.3s;
+        }
+
+      }
+    }
+  }
+
+  blockquote{
+    width: 90%;
+    text-align: center;
+    font-size: 10px;
+
+    b{
+      color: rgb(206, 0, 0);
+      font-size: 0.7rem;
+    }
+
+    a{
+      text-decoration: none;
+      color: rgb(206, 0, 0);
+      font-weight: bold;
+      font-size: 0.7rem;
+    }
+  }
+}
+
+@keyframes certificaciones-page-fadein {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  100% {
+    opacity: 1;
+    visibility: visible;
+  }
+}

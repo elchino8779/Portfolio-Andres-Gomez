@@ -1,0 +1,109 @@
+.proyect-card-container {
+  position: relative;
+  width: 400px;
+  height: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 0.5rem;
+  border: 1px solid rgb(35, 35, 35, 0.5);
+  background-color: rgba(35, 35, 35, 0.5);
+  backdrop-filter: blur(10px);
+  content-visibility: auto;
+
+  &:hover .imgs-proyect-container>.img-proyect {
+    filter: grayscale(0);
+  }
+
+  .icon-left {
+    position: absolute;
+    width: 40px;
+    top: 50%;
+    left: 10px;
+    transform: rotate(180deg);
+    filter: drop-shadow(0 0 1px rgb(87, 87, 87));
+    transition: 0.2s;
+    z-index: 1;
+    animation-name: btn-slider;
+    animation-duration: 0.5s;
+    animation-iteration-count: initial;
+    cursor: pointer;
+
+    &:hover {
+      transform: rotate(180deg) scale(1.1);
+    }
+
+    &:active {
+      transform: rotate(180deg) scale(1);
+    }
+  }
+
+  .icon-play {
+    width: 50px;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    filter: drop-shadow(0 0 1px rgb(87, 87, 87));
+    transition: 0.2s;
+    animation-name: btn-slider;
+    animation-duration: 0.5s;
+    animation-iteration-count: initial;
+    cursor: pointer;
+  }
+
+  .icon-right {
+    position: absolute;
+    width: 40px;
+    top: 50%;
+    right: 10px;
+    filter: drop-shadow(0 0 1px rgb(87, 87, 87));
+    transition: 0.2s;
+    z-index: 1;
+    animation-name: btn-slider;
+    animation-duration: 0.5s;
+    animation-iteration-count: initial;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+
+    &:active {
+      transform: scale(1);
+    }
+  }
+
+  .imgs-proyect-container {
+    height: 80%;
+    display: flex;
+    align-items: center;
+    transition: 0.3s;
+
+    .img-proyect {
+      transition: 0.5s;
+      width: 400px;
+      filter: grayscale(0.8);
+    }
+  }
+
+  h2 {
+    margin-top: 10px;
+    width: 100%;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+}
+
+@keyframes btn-slider {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  100% {
+    opacity: 1;
+    visibility: visible;
+  }
+}

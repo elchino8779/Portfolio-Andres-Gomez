@@ -1,0 +1,22 @@
+[
+  {
+    "name": "JonMircha",
+    "imgCanal": "jonmircha.jpg",
+    "canalURL": "https://www.youtube.com/@jonmircha"
+  },
+  {
+    "name": "MiduDev",
+    "imgCanal": "midudev.jpg",
+    "canalURL": "https://www.youtube.com/@midudev"
+  },
+  {
+    "name": "VictorRobles",
+    "imgCanal": "victorrobles.jpg",
+    "canalURL": "https://www.youtube.com/@VictorRoblesWEB"
+  },
+  {
+    "name": "freeCodeCamp",
+    "imgCanal": "freeCodeCamp.jpg",
+    "canalURL": "https://www.youtube.com/@freecodecampespanol"
+  }
+]

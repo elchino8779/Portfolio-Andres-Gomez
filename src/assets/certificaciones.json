@@ -1,0 +1,1068 @@
+[
+  {
+    "name": "Business Model Canvas Parte 1",
+    "description": "Un modelo poderoso para tu negocio",
+    "skills": [
+      "Brief",
+      "Segmento de clientes",
+      "Propuesta de valor",
+      "Canales",
+      "Relación con los clientes"
+    ],
+    "imgName": "BusinessModelCanvasParte1UnModeloPoderosoParaTuNegocio.jpg",
+    "iconName": "business-model-canvas-parte-1-modelo-poderoso-negocio.svg"
+  },
+  {
+    "name": "Business Model Canvas Parte 2",
+    "description": "Avanzando con tu modelo de negocios",
+    "skills": [
+      "Fuente de Ingresos",
+      "Recursos Clave",
+      "Actividades Clave",
+      "Asociaciones Clave",
+      "Estructura de Costos",
+      "Próximos pasos"
+    ],
+    "imgName": "BusinessModelCanvasParte2AvanzandoConTuModeloDeNegocios.jpg",
+    "iconName": "business-model-canvas-parte-2-modelo-negocios.svg"
+  },
+  {
+    "name": "Emprendimiento",
+    "description": "De la idea al plan de negocios",
+    "skills": [
+      "Pilares del emprendimiento",
+      "Ideas y oportunidades",
+      "Modelo de negocios",
+      "Business Model Canvas",
+      "Plan de negocios"
+    ],
+    "imgName": "EmprendimientoDeLaIdeaAlPlanDeNegocios.jpg",
+    "iconName": "emprendimiento-idea-plan-negocios.svg"
+  },
+  {
+    "name": "Foco",
+    "description": "Enfocarse trae mas resultados para el día a día",
+    "skills": [
+      "La ilusión de ser multitarea",
+      "Creencias",
+      "Fuerza de voluntad",
+      "Asociaciones Clave",
+      "Equilibrio en la vida",
+      "La única cosa"
+    ],
+    "imgName": "FocoEnfocarseTraeMasResultadosParaElDiaADia.jpg",
+    "iconName": "foco-habito-dia-a-dia.svg"
+  },
+  {
+    "name": "Fundamentos de Agilidad",
+    "description": "Primeros pasos para la transformación ágil",
+    "skills": [
+      "El Método Ágil (Agile)",
+      "Método Cascada (Waterfall)",
+      "Priorización",
+      "Flujo de ejecución",
+      "Retroalimentación",
+      "¿Qué es ser ágil?",
+      "Manifiesto ágil",
+      "Cases"
+    ],
+    "imgName": "FundamentosDeAgilidadPrimerosPasosParaLaTransformacionAgil.jpg",
+    "iconName": "fundamentos-agilidad-primeros-pasos-transformacion-agil.svg"
+  },
+  {
+    "name": "Gestion Agil",
+    "description": "Liderando el cambio en un ambiente de agilidad",
+    "skills": [
+      "Gestión Tradicional",
+      "VUCA",
+      "Motivación",
+      "Liderazgo",
+      "Empoderar y delegar",
+      "Retroalimentación y conocimiento",
+      "Mejoras"
+    ],
+    "imgName": "GestionAgilLiderandoElCambioEnUnAmbienteDeAgilidad.jpg",
+    "iconName": "gestion-agil-liderando-cambio.svg"
+  },
+  {
+    "name": "Git & GitHub",
+    "description": "Controle y comparta su codigo",
+    "skills": [
+      "Qué es Git?",
+      "Iniciando los trabajos",
+      "Compartiendo el trabajo",
+      "Trabajando en equipo",
+      "Manipulando las versiones",
+      "Generando entregas"
+    ],
+    "imgName": "GitYGitHubControleYCompartaSuCodigo.jpg",
+    "iconName": "git-github-control-version.svg"
+  },
+  {
+    "name": "Habitos",
+    "description": "Ser productivo para cumplir sus metas personales",
+    "skills": [
+      "Reconociendo tus hábitos",
+      "Hábitos Clave",
+      "Adios viejos hábitos",
+      "Autodisciplina",
+      "Productividad"
+    ],
+    "imgName": "HabitosSerProductivoParaCumplirSusMetasPersonales.jpg",
+    "iconName": "habitos-productivo-metas-personales.svg"
+  },
+  {
+    "name": "HTML5 y CSS3 Parte 1",
+    "description": "Mi primera pagina web",
+    "skills": [
+      "Marcacion del primer texto",
+      "Separacion de Contenido y informaciones",
+      "Trabajando con css",
+      "Estilizando imagenes",
+      "Lista y divisiones del contenido",
+      "Finalizando la página"
+    ],
+    "imgName": "HTML5YCSS3Parte1MiPrimeraPaginaWeb.jpg",
+    "iconName": "html5-css3-primera-pagina-web.svg"
+  },
+  {
+    "name": "HTML5 y CSS3 Parte 2",
+    "description": "Posicionamiento, listas y navegación",
+    "skills": [
+      "Creando una nueva página",
+      "Navegación entre páginas",
+      "Posicionamiento de los elementos",
+      "Lista con Productos",
+      "Lidiando con bordes",
+      "Capturando eventos con CSS",
+      "Finalizando la página de productos"
+    ],
+    "imgName": "HTML5YCSS3Parte2PosicionamientoListasYNavegacion.jpg",
+    "iconName": "html5-css3-posicionamiento-listas-navegacion.svg"
+  },
+  {
+    "name": "HTML5 y CSS3 Parte 3",
+    "description": "Trabajando con formularios y tablas",
+    "skills": [
+      "Creando una nueva página",
+      "Comenzando un formulario",
+      "Tipos de campos diferentes",
+      "Mejorando la semántica",
+      "CSS avanzado",
+      "Estructura de tablas"
+    ],
+    "imgName": "HTML5YCSS3Parte3TrabajandoConFormulariosYTablas.jpg",
+    "iconName": "html5-css3-formularios-tablas.svg"
+  },
+  {
+    "name": "HTML5 y CSS3 Parte 4",
+    "description": "Avanzando en CSS",
+    "skills": [
+      "Adaptando la página inicial",
+      "Contenido externo",
+      "Mejorando el CSS",
+      "Seleccionando cualquier cosa",
+      "Opacidad y sombra",
+      "Diseño responsivo"
+    ],
+    "imgName": "HTML5YCSS3Parte4AvanzandoEnCSS.jpg",
+    "iconName": "html5-css3-avanzando-css.svg"
+  },
+  {
+    "name": "Introducción a SQL con MySQL",
+    "description": "Manipule y consulte datos",
+    "skills": [
+      "Instalando y configurando MySQL",
+      "Manipulando la base de datos",
+      "Administrando las tablas de la base de datos",
+      "Mantenimiento de los datos en las tablas",
+      "Consultando los datos"
+    ],
+    "imgName": "IntroducciónASQLConMySQLManipuleYConsulteDatos.jpg",
+    "iconName": "introduccion-sql-mysql-manipule-consulte-datos.svg"
+  },
+  {
+    "name": "Java Excepciones",
+    "description": "Aprenda a crear, lanzar y controlar excepciones",
+    "skills": [
+      "Pila de ejecucion",
+      "Tratamiento de excepciones",
+      "Lanzando excepciones",
+      "Checked y unchecked",
+      "Aplicando excepciones",
+      "Finally y try with resources"
+    ],
+    "imgName": "JavaExcepcionesAprendaACrearLanzarYControlarExcepciones.jpg",
+    "iconName": "java-excepciones.svg"
+  },
+  {
+    "name": "Java JRE y JDK",
+    "description": "Compile y ejecute su primer programa",
+    "skills": [
+      "¿Qué es Java?",
+      "El primer programa",
+      "Programando con Eclipse",
+      "Tipos y variables",
+      "Trabajando con caracteres",
+      "Practicando condicionales",
+      "Controlando flujo con Loops"
+    ],
+    "imgName": "JavaJREYJDKCompileYEjecuteSuPrimerPrograma.jpg",
+    "iconName": "java-primeros-pasos.svg"
+  },
+  {
+    "name": "Java POO",
+    "description": "Entendiendo la orientacion a objetos",
+    "skills": [
+      "El problema del paradigma procedimental",
+      "Introducción a Orientación a objetos",
+      "Definiendo Comportamientos",
+      "Composición de Objetos",
+      "Encapsulamiento y Visibilidad",
+      "Constructores y miembros estáticos"
+    ],
+    "imgName": "JavaPOOEntendiendoLaOrientacionAObjetos.jpg",
+    "iconName": "java-parte2-introduccion-orientada-objetos.svg"
+  },
+  {
+    "name": "Java Polimorfismo",
+    "description": "Entendiendo Herencia e Interfaces",
+    "skills": [
+      "Introducción a herencia",
+      "Super y reescrita de Métodos",
+      "Entendiendo Polimorfismo",
+      "Herencia y el uso de constructores",
+      "Clases y métodos abstractos",
+      "Interfaces",
+      "Practicando herencia e interfaces"
+    ],
+    "imgName": "JavaPolimorfismoEntendiendoHerenciaEInterfaces.jpg",
+    "iconName": "java-parte-3-entendiendo-herencia-interfaces.svg"
+  },
+  {
+    "name": "Java Servlet",
+    "description": "Autenticacion, autorizacion y MVC",
+    "skills": [
+      "Creando el controlador",
+      "El patrón MVC",
+      "Formulario de login",
+      "HTTPSession",
+      "Aplicando filtros",
+      "Introducción a Web Services",
+      "Deploy en Jetty"
+    ],
+    "imgName": "JavaServletAutenticacionAutorizacionYMVC.jpg",
+    "iconName": "java-servlet-autenticacion-autorizacion-mvc.svg"
+  },
+  {
+    "name": "Java Servlet",
+    "description": "Fundamentos de programación web con Java",
+    "skills": [
+      "Fundamentos de Web y API de Servlets",
+      "Trabajando con POST y GET",
+      "Definiendo nuestro modelo",
+      "Páginas dinámicas con JSP",
+      "JSTL y Expresssion Language",
+      "Redireccionando el flujo",
+      "Completando el CRUD",
+      "Deploy de la aplicación"
+    ],
+    "imgName": "JavaServletFundamentosDeProgramacionWebConJava.jpg",
+    "iconName": "java-servlet-fundamentos-programacion-web-java.svg"
+  },
+  {
+    "name": "Java y JDBC",
+    "description": "Trabajando con una Base de Datos",
+    "skills": [
+      "Introducción a JDBC",
+      "Ejecutando comandos SQL en Java",
+      "Realizando mejoras en el proyecto",
+      "Escalabilidad con pool de conexiones",
+      "Capa de persistencia con DAO",
+      "Evitando queries N + 1"
+    ],
+    "imgName": "JavaYJDBCTrabajandoConUnaBaseDeDatos.jpg",
+    "iconName": "java-jdbc-trabajando-base-datos.svg"
+  },
+  {
+    "name": "Java y JPA",
+    "description": "Consultas avanzadas, rendimiento y modelos complejos",
+    "skills": [
+      "Más relacionamientos",
+      "Consultas avanzadas",
+      "Performance de consultas",
+      "Criteria API",
+      "Otros topicos"
+    ],
+    "imgName": "JavaYJPAConsultasAavanzadasRendimientoYModelosComplejos.jpg",
+    "iconName": "java-jpa-consultas-avanzadas-rendimiento-modelos-complejos.svg"
+  },
+  {
+    "name": "Java Collections",
+    "description": "Dominando las Collections",
+    "skills": [
+      "Trabajando con ArrayList",
+      "Listas de Objetos",
+      "Relacionando Listas de Objetos",
+      "Conociendo más de Listas",
+      "Usando la interface Set",
+      "Métodos equals y hashCode",
+      "Otros tipos de Sets y Iterators",
+      "Maps"
+    ],
+    "imgName": "JavaDominandoLasCollections.jpg",
+    "iconName": "java-dominando-collections.svg"
+  },
+  {
+    "name": "La Empresa Ágil",
+    "description": "Introduciendo el Business Agility en las organizaciones",
+    "skills": [
+      "Business Agility",
+      "Identificando la complejidad",
+      "Estructura organizacional",
+      "El Rayo X de la empresa ágil",
+      "Enfoque en la generación de valor",
+      "Como una empresa aprende a ser ágil"
+    ],
+    "imgName": "LaEmpresaAgilIntroduciendoElBusinessAgilityEnLasOrganizaciones.jpg",
+    "iconName": "empresa-agil-introduciendo-business-agility-organizaciones.svg"
+  },
+  {
+    "name": "Lean Startup",
+    "description": "Método eficaz para convertir una idea de negocio en empresa",
+    "skills": [
+      "Experimentación rápida y aprendizaje validado",
+      "Fases del MVP",
+      "Medir y pivotar",
+      "Acelerar, crecer e inovar",
+      "Recomendaciones para prototipar"
+    ],
+    "imgName": "LeanStartupMetodoEficazParaConvertirUnaIdeaDeNegocioEnEmpresa.jpg",
+    "iconName": "lean-startup-metodo-eficaz-idea-negocio-empresa.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "description": "Como hacer que tu perfil trabaje por ti",
+    "skills": [
+      "Conociendo Linkedin",
+      "Tipos de perfiles",
+      "Conexiones",
+      "Otras herramientas de Linkedin",
+      "Contenido de calidad"
+    ],
+    "imgName": "LinkedInComoHacerQueTuPerfilTrabajePorTi.jpg",
+    "iconName": "linkedin-hacer-perfil-trabaje-por-ti.svg"
+  },
+  {
+    "name": "Lógica de programación",
+    "description": "Conceptos primordiales",
+    "skills": [
+      "Ejecute códigos diferentes dependiendo de la condición",
+      "Interactúe de manera diferente con el usuario",
+      "Trabaje con muchos datos",
+      "Aprovechando las ventajas de los arrays"
+    ],
+    "imgName": "LogicaDeProgramacionConceptosPrimordiales.jpg",
+    "iconName": "logica-de-programacion-conceptos-primordiales.svg"
+  },
+  {
+    "name": "Lógica de programación",
+    "description": "Practicando con juegos y animaciones",
+    "skills": [
+      "Diseñando gráficos con Canvas",
+      "Utilizando funciones",
+      "Interactuando con el usuario",
+      "Moviendo elementos con animaciones simples",
+      "Nuestro primer juego"
+    ],
+    "imgName": "LogicaDeProgramacionPracticandoConJuegosYAnimaciones.jpg",
+    "iconName": "logica-de-programacion-juegos-animaciones.svg"
+  },
+  {
+    "name": "Lógica de programación",
+    "description": "Primeros pasos",
+    "skills": [
+      "Comience a programar hoy",
+      "Comuníquese con el usuario",
+      "Deje su programa dinámico usando Variables",
+      "Cree sus propias funcionalidades",
+      "Practique resolviendo problemas del dia a dia"
+    ],
+    "imgName": "LogicaDeProgramacionPrimerosPasos.jpg",
+    "iconName": "logica-de-programacion-primeros-pasos.svg"
+  },
+  {
+    "name": "Organización de equipos ágiles",
+    "description": "Las funciones existentes en un equipo",
+    "skills": [
+      "El equipo ágil",
+      "La autoorganización",
+      "Los tipo de equipo ágil",
+      "El equipo Scrum",
+      "El Product Owner",
+      "El Development Team",
+      "El Scrum Master",
+      "Los Equipos Kanban"
+    ],
+    "imgName": "OrganizacionDeEquiposAgilesLasFuncionesExistentesEnUnEquipo.jpg",
+    "iconName": "organizacion-equipos-agiles-funciones-existentes-equipo.svg"
+  },
+  {
+    "name": "Persistencia con JPA",
+    "description": "Hibernate",
+    "skills": [
+      "Comenzando con JPA",
+      "Configuraciones y EntityManager",
+      "Mapeando entidades",
+      "Ciclo de vida de una entidad",
+      "Consultas con JPQL"
+    ],
+    "imgName": "PersistenciaConJPAHibernate.jpg",
+    "iconName": "persistencia-jpa-hibernate.svg"
+  },
+  {
+    "name": "Pitch para entrevistas",
+    "description": "Haga presentaciones impactantes",
+    "skills": [
+      "Presentando el Pitch",
+      "Creando un discurso",
+      "Escribe tu pitch",
+      "Analizando el pitch",
+      "De qué debemos preocuparnos"
+    ],
+    "imgName": "PitchParaEntrevistasHagaPresentacionesImpactantes.jpg",
+    "iconName": "pitch-entrevistas-presentaciones-impactantes.svg"
+  },
+  {
+    "name": "Productividad",
+    "description": "Estrategias para actividades diarias",
+    "skills": [
+      "Enfócate en lo que importa",
+      "Define tu proposito",
+      "Productividad en la práctica",
+      "Procrastinación creativa",
+      "Haz lo correcto"
+    ],
+    "imgName": "ProductividadEstrategiasParaActividadesDiarias.jpg",
+    "iconName": "productividad-parte-1-estrategias-actividades-diarias.svg"
+  },
+  {
+    "name": "Spring Boot 3",
+    "description": "Aplique las mejores prácticas y proteja una API Rest",
+    "skills": [
+      "Buenas practicas en API",
+      "Tratando errores",
+      "Spring Security",
+      "JSON Web Token",
+      "Control de Acceso"
+    ],
+    "imgName": "SpringBoot3ApliqueLasMejoresPracticasYProtejaUnaAPIRest.jpg",
+    "iconName": "spring-boot-3-aplique-practicas-proteja-api-rest.svg"
+  },
+  {
+    "name": "Spring Boot 3",
+    "description": "Desarrollar una API Rest en Java",
+    "skills": [
+      "Requests POST",
+      "Spring Data JPA",
+      "Request GET",
+      "Request PUT y DELETE"
+    ],
+    "imgName": "SpringBoot3DesarrollarUnaAPIRestEnJava.jpg",
+    "iconName": "spring-boot-3-desarrollar-api-rest-java.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Desarrollo Personal G4 - ONE",
+    "skills": [
+      "LinkedIn: Como hacer que tu perfil trabaje por ti",
+      "Foco: Enfocarse trae más resultados para el día a día",
+      "Hábitos: Ser productivo para cumplir sus metas personales",
+      "Productividad: Estrategias para actividades diarias"
+    ],
+    "imgName": "DesarrolloPersonal.jpg",
+    "iconName": "inovacao-gestao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Principiante en Programación G4 - ONE",
+    "skills": [
+      "Lógica de programación: Primeros pasos",
+      "Lógica de programación: Conceptos primordiales",
+      "Lógica de programación: Practicando con juegos y animaciones",
+      "HTML5 y CSS3 parte 1: Mi primera página web",
+      "HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación",
+      "HTML5 y CSS3 parte 3: Trabajando con formularios y tablas",
+      "HTML5 y CSS3 parte 4: Avanzando en CSS",
+      "Git y GitHub: controle y comparta su código"
+    ],
+    "imgName": "PrincipianteEnProgramacion.jpg",
+    "iconName": "programacao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Business Agility G4 - ONE",
+    "skills": [
+      "Fundamentos de Agilidad: Primeros pasos para la transformación ágil",
+      "Gestión ágil: Liderando el cambio en un ambiente de agilidad",
+      "La Empresa Ágil: Introduciendo el Business Agility en las organizaciones",
+      "Organización de equipos ágiles: Las funciones existentes en un equipo"
+    ],
+    "imgName": "BusinessAgility.jpg",
+    "iconName": "inovacao-gestao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Java Orientado a Objetos G4 - ONE",
+    "skills": [
+      "Java JRE y JDK: compile y ejecute su primer programa",
+      "Java OO: Entendiendo la Orientación a Objetos",
+      "Java Polimorfismo: Entendiendo herencia e interfaces",
+      "Java Excepciones: Aprenda a crear, lanzar y controlar excepciones",
+      "Java: Dominando las Collections"
+    ],
+    "imgName": "JavaOrientadoAObjetos.jpg",
+    "iconName": "programacao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Emprendimiento G4 - ONE",
+    "skills": [
+      "Lean Startup: Método eficaz para convertir una idea de negocio en empresa",
+      "Emprendimiento: De la idea al plan de negocios",
+      "Pitch para entrevistas: Haga presentaciones impactantes",
+      "Business Model Canvas parte I: Un modelo poderoso para tu negocio",
+      "Business Model Canvas parte II: Avanzando con tu modelo de negocios"
+    ],
+    "imgName": "Emprendimiento.jpg",
+    "iconName": "inovacao-gestao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Integre aplicaciones Java con Base de datos",
+    "skills": [
+      "Java y JDBC: Trabajando con una Base de Datos",
+      "Persistencia con JPA: Hibernate",
+      "Java y JPA: consultas avanzadas, rendimiento y modelos complejos"
+    ],
+    "imgName": "IntegreAplicacionesJavaConBaseDeDatos.jpg",
+    "iconName": "programacao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Java Web",
+    "skills": [
+      "Java Servlet: Fundamentos de programación web con Java",
+      "Java Servlet: autenticación, autorización y MVC"
+    ],
+    "imgName": "JavaWeb.jpg",
+    "iconName": "programacao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Java y Spring Boot G4 - ONE",
+    "skills": [
+      "Introducción a SQL con MySQL: Manipule y consulte datos",
+      "Java y JDBC: Trabajando con una Base de Datos",
+      "Persistencia con JPA: Hibernate",
+      "Java y JPA: consultas avanzadas, rendimiento y modelos complejos",
+      "Java Servlet: Fundamentos de programación web con Java",
+      "Java Servlet: autenticación, autorización y MVC",
+      "Spring Boot 3: desarrollar una API Rest en Java",
+      "Spring Boot 3: aplique las mejores prácticas y proteja una API Rest"
+    ],
+    "imgName": "JavaYSpringBoot.jpg",
+    "iconName": "programacao.svg"
+  },
+  {
+    "name": "Alura",
+    "description": "Oracle Next Education F2 T4 Back-end",
+    "skills": [
+      "Desarrollo Personal G4 - ONE",
+      "Principiante en Programación G4 - ONE",
+      "Business Agility G4 - ONE",
+      "Java Orientado a Objetos G4 - ONE",
+      "Emprendimiento G4 - ONE",
+      "Java y Spring Boot G4 - ONE"
+    ],
+    "imgName": "AndresGasparGomezPrograma.jpg",
+    "iconName": "alura.png"
+  },
+  {
+    "name": "Argentina Programa",
+    "description": "#SeProgramar Etapa 1",
+    "skills": [
+      "Lógica de Programacion",
+      "Introducción a JavaScript",
+      "Introducción a Ruby"
+    ],
+    "imgName": "ArgentinaProgramaEtapa1.jpg",
+    "iconName": "logo_Argentina Programa 4.0.png"
+  },
+  {
+    "name": "Argentina Programa - Ticmas",
+    "description": "Primeros pasos del desarrollo Frontend",
+    "skills": [
+      "Estructura de un proyecto Web",
+      "Elementos multimediales",
+      "Capa de presentación",
+      "Extendiendo CSS y sus frameworks",
+      "Alojamiento y tipo de servidores",
+      "Pensamiento Lógico",
+      "Tipos de lenguajes de programación",
+      "Estructuras de la programación",
+      "Fundamentos JavaScript"
+    ],
+    "imgName": "PrimerosPasosDesarrolloWebFrontEndTicmasArgentinaPrograma.jpg",
+    "iconName": "ticmas.png"
+  },
+  {
+    "name": "Argentina Programa - Educado en Argentina",
+    "description": "Desarrollo Web Frontend",
+    "skills": [
+      "Introducción Front-End: HTML, CSS y JavaScript",
+      "Herramientas y recursos",
+      "Conceptos básicos",
+      "CSS: Selectores y reglas de estilo, Modelo de caja, Decoración",
+      "JavaScript: Variables, Operadores, Control de flujo, Estructura de datos, Bucles, Funciones y eventos",
+      "GitHub",
+      "BootStrap: Interfaces de usuario y estilos, Layouts",
+      "jQuery: Manipulación del DOM, Efectos y animaciones",
+      "React: Creación de componentes, Hook de estado useState, Integración con el Backend"
+    ],
+    "imgName": "DesarrolloWebFrontEndEducandoArgentina.jpg",
+    "iconName": "logo_Argentina Programa 4.0.png"
+  },
+  {
+    "name": "Open BootCamp",
+    "description": "Introducción a la programación",
+    "skills": [
+      "Historia de la programación",
+      "Tipos de lenguajes de programación",
+      "Aplicaciones cliente servidor",
+      "Memoria y variables",
+      "Memoria y tipos de datos de texto",
+      "Tipos de datos numéricos",
+      "tipos de datos booleanos",
+      "Arrays",
+      "Tuplas y arrays asociativos",
+      "Objetos",
+      "Curiosidades sobre los tipos de datos",
+      "Funciones: definición y conceptos",
+      "Uso de funciones",
+      "Funciones avanzadas",
+      "Condicionales",
+      "Bucles while y do while",
+      "Bucle for",
+      "Switch case",
+      "Errores mas comúnes y gestión de los mismos",
+      "Errores de programador",
+      "Repercución de los errores",
+      "Depuración del código",
+      "Programación orientada a objetos",
+      "Privacidad, abstracción y encapsulación",
+      "Herencia, polimorfizmo e interfaces",
+      "Métodos de clases",
+      "Lenguajes compilados"
+    ],
+    "imgName": "IntroduccionALaProgramacionOpenBootCamp.jpg",
+    "iconName": "openbootcamp.png"
+  },
+  {
+    "name": "Open BootCamp",
+    "description": "HTML y CSS",
+    "skills": [
+      "Introducción a HTML y CSS",
+      "IDE y extensiones",
+      "Mi primera página web",
+      "Etiquetas más utilizadas",
+      "Etiquetas para formularios",
+      "Botones",
+      "Tablas en HTML",
+      "Imágenes",
+      "Videos y audio",
+      "Introducción a las hojas de estilo",
+      "Selectores en CSS",
+      "Las 3 formas de insertar estilos",
+      "Colores",
+      "Fondos de colores e imágenes",
+      "Estilos de altura, anchura, padding y margin",
+      "Fuentes en CSS",
+      "Disposiciones y alineaciones",
+      "Posicionamiento",
+      "Flexbox",
+      "Overflow",
+      "Trabajando la opacidad y galerías de imágenes en HTML",
+      "Reproductores de video",
+      "Anidación de selectores",
+      "Pseudo clases",
+      "Pseudo elementos",
+      "Especifidad",
+      "Estilando formularios",
+      "Creando un formulario moderno",
+      "Incluyendo BootStrap en nuestro proyecto",
+      "Estilos y animaciones de BootStrap",
+      "Animaciones y transiciones",
+      "Tooltips",
+      "Unidades fijas y relativas",
+      "Responsive y unidades em y rem",
+      "Media queries",
+      "Uso avanzado de flexbox",
+      "Viewport, grid y templates",
+      "Variables reutilizables en CSS",
+      "Sistema grid en BootStrap",
+      "Tablas",
+      "Imágenes",
+      "Jumbotron",
+      "Alertas",
+      "Spinners",
+      "Tarjetas",
+      "Listas",
+      "Formularios",
+      "Modales, popovers y tooltips",
+      "Iconos",
+      "Toast",
+      "Badges",
+      "Progress",
+      "Tipografía en BootStrap",
+      "Introducción a Sass",
+      "Variables y mixins",
+      "Importación de extensiones",
+      "Instalación global Sass y use vs import",
+      "Funciones en Sass"
+    ],
+    "imgName": "HTMLCSSOpenBootCamp.jpg",
+    "iconName": "openbootcamp.png"
+  },
+  {
+    "name": "Open BootCamp",
+    "description": "JavaScript",
+    "skills": [
+      "Introducción a JavaScript",
+      "Node y NPM",
+      "Primer proyecto NODE",
+      "Ejecución y comentarios",
+      "Tipado y tipos de datos primitivos",
+      "Declaración de variables y escritura dinámica",
+      "Notación",
+      "Listas, objetos y fechas",
+      "Bifurcaciones if else y switch",
+      "Comparaciones",
+      "Bucles for y while",
+      "Frmas de controlar bucles con continue y break",
+      "Etiquetas en los bucles",
+      "Tipos de declaración de string y cuando utilizarlos",
+      "Métodos más comunes de los string",
+      "Manipulación de cadenas de texto",
+      "Expresiones regulares y métodos de búsqueda de cadenas",
+      "Numbers y precisión",
+      "Operaciones y redondeo",
+      "Métodos de numbers y límites",
+      "Listas y métodos de mutación de listas",
+      "Concatenación y obtención de fragmentos listas",
+      "Métodos de iteración de listas",
+      "Obtención de listas a partir de listas",
+      "Orden y comparación de listas",
+      "Identificar valores en array y objetos iterables",
+      "Trabajando con set",
+      "Objetos",
+      "Fechas",
+      "Uso de la consola",
+      "Introducción a las funciones",
+      "Funciones de tipo flecha y anónimas",
+      "Carga y sobrecarga de funciones",
+      "Funciones asincronas y promesas",
+      "Funciones generadoras",
+      "Errores en JavaScript",
+      "Gestión de logs en NodeJS",
+      "Módulos y utilización de CommonJS",
+      "Utilizando módulos con ES6",
+      "Librerías en NODE y NPM",
+      "Librerías interesantes",
+      "Introducción a la programación orientada a objetos",
+      "Creación y uso de clases",
+      "Ámbito de las clases, métodos y atributos públicos, privados y protegidos",
+      "Getters y Setters",
+      "Herencia y polimorfismo",
+      "Porque no se habla de interfaces en JavaScript y alternativas",
+      "Introducción a la depuración en VsCode",
+      "Lingting y ESLint",
+      "Fichero de configuración ESLint",
+      "Instalación y configuración de ficheros",
+      "Reglas temporales y script para ejecución de ESLint en nuestro código",
+      "Introducción a HTML con JavaScript",
+      "Utilización de librerías de terceros",
+      "Manejo de eventos",
+      "Eventos personalizados",
+      "JQuery",
+      "Alertas y diálogos en pantalla",
+      "Persistencia de datos en el navegador",
+      "Drag & Drop",
+      "Inicialización de mapas en HTML",
+      "Geolocalización"
+    ],
+    "imgName": "JavaScriptOpenBootCamp.jpg",
+    "iconName": "openbootcamp.png"
+  },
+  {
+    "name": "SoloLearn",
+    "description": "HTML",
+    "skills": [
+      "¿Qué es HTML?",
+      "Elementos HTML",
+      "Creando tu primera página con HTML",
+      "Encabezados, líneas y comentarios",
+      "Párrafos",
+      "Formato de texto",
+      "Elementos",
+      "Atributos",
+      "Imágenes",
+      "Listas",
+      "Tablas",
+      "Hipervínculos",
+      "Elementos inline y block",
+      "Formularios",
+      "Colores HTML",
+      "Marcos",
+      "Introducción a HTML5",
+      "Modelos de contenido",
+      "Estructura de página HTML5",
+      "Header, Nav & Footer",
+      "Article, Section & Aside",
+      "El elemento audio",
+      "El elemento video",
+      "El elemento progress",
+      "API de almacenamiento web",
+      "API de geolocalización",
+      "API de Drag & Drop",
+      "SVG",
+      "Animaciones y trazados SVG",
+      "Canvas",
+      "SVG vs Canvas",
+      "Formularios HTML5"
+    ],
+    "imgName": "HTMLSoloLearn.jpg",
+    "iconName": "sololearn.png"
+  },
+  {
+    "name": "SoloLearn",
+    "description": "CSS",
+    "skills": [
+      "¿Qué es CSS?",
+      "CSS en línea, incrustado y externo",
+      "Reglas y selectores en CSS",
+      "Comentarios CSS",
+      "Estilo en cascada y herencia",
+      "Font-family",
+      "Font-size",
+      "Font-style",
+      "Font-weight",
+      "Font-variant",
+      "Color",
+      "Alineado de texto horizontalmente",
+      "Alineado de texto verticalmente",
+      "Text-decoration",
+      "Indentado del texto",
+      "Text-shadow",
+      "Text-transform",
+      "Letter-spacing",
+      "Word-spacing",
+      "White-spacing",
+      "Introducción al modelo de caja",
+      "Entendiendo el modelo de caja",
+      "Bordes",
+      "Ancho y alto",
+      "Background-color",
+      "Background-image",
+      "Background-repeat",
+      "Background-attachment",
+      "Dando estilos a las listas",
+      "Dando estilos a las tablas",
+      "Dando estilos a los enlaces",
+      "Personalizando el cursor del ratón",
+      "La propiedad display",
+      "La propiedad visibility",
+      "Posicionamiento",
+      "Flotando",
+      "La propiedad clear",
+      "La propiedad overflow",
+      "La propiedad z-index",
+      "Introdución a CSS3",
+      "Prefijos de proveedores",
+      "Esquinas redondeadas",
+      "Box-shadow",
+      "Técnicas de sombreado de caja",
+      "Efecto de transparencia",
+      "Text-shadow",
+      "Pseudo clases",
+      "Pseudo elementos",
+      "Word-wrap",
+      "@font-face",
+      "Degradados lineales",
+      "Degradados radiales",
+      "Background-size",
+      "Background-clip",
+      "Bordes transparentes",
+      "Múltiples imágenes de fondo",
+      "Opacity",
+      "Transiciones",
+      "Transform: rotate()",
+      "Transform origin, translate(), skew()",
+      "Scale(), Múltiples transformaciones",
+      "Animación y fotogramas clave",
+      "Propiedades de animación",
+      "Transformaciones 3D",
+      "Filtros CSS",
+      "Funciones de filtro",
+      "Opacidad y brillo",
+      "Usar múltiples filtros CSS"
+    ],
+    "imgName": "CSSoloLearn.jpg",
+    "iconName": "sololearn.png"
+  },
+  {
+    "name": "SoloLearn",
+    "description": "JavaScript",
+    "skills": [
+      "Producción",
+      "Variables",
+      "Comentarios",
+      "Tipos de datos",
+      "Operadores matemáticos",
+      "Operadores de asignación",
+      "Operadores lógicos o booleanos",
+      "Operadores de cadenas de texto",
+      "La declaración if",
+      "La declaración else if",
+      "La declaración switch",
+      "El bucle for",
+      "El bucle while",
+      "El bucle Do...while",
+      "Break y continue",
+      "Funciones definidas por el usuario",
+      "Parámetros de funciones",
+      "Utilizando múltiples parámetros con funciones",
+      "La declaración return",
+      "Alert, Prompt, Confirm",
+      "Introducción a los objetos",
+      "Creando tus propios objetos",
+      "Inicialización de objetos",
+      "Añadiendo métodos",
+      "Arreglos",
+      "Otras formas para crear arreglos",
+      "Propiedades de arreglos y métodos", "Arreglos asociativos",
+      "El objeto Math",
+      "El objeto Date",
+      "¿Qé es DOM?",
+      "Seleccionando elementos",
+      "Modificando elementos",
+      "Añadiendo y removiendo elementos",
+      "Creando animaciones",
+      "Manejando eventos",
+      "Propagación de eventos",
+      "Creando un deslizador de imágenes",
+      "Validación de formularios",
+      "Introducción a ES6",
+      "Variables y string",
+      "Bucles y funciones ES6",
+      "Objetos en ES6",
+      "Destructuración en ES6",
+      "Rest y Spread",
+      "Clases en ES6",
+      "Map y Set",
+      "Más sobre ES6"
+    ],
+    "imgName": "JavaScriptSoloLearn.jpg",
+    "iconName": "sololearn.png"
+  },
+  {
+    "name": "Platzi",
+    "description": "Curso de Programación Basica",
+    "skills": [
+      "¿Como aprender programación?",
+      "Crea tu primer sitio web",
+      "Sitios web con HTML",
+      "Estructura de árbol en HTML",
+      "Instalando tu primer editor de código",
+      "Como declarar variables y usar prompt",
+      "Algoritmo de piedra, papel o tijera",
+      "Algoritmo avanzado de piedra, papel o tijera",
+      "Aleatoriedad",
+      "Refactor del código usando funciones",
+      "Ciclos",
+      "Gana 3 veces",
+      "Archivos de HTML y JavaScript",
+      "¿Que es el DOM?",
+      "Maquetación con HTML",
+      "Sección de elegir mascota",
+      "¿Donde ubicar la etiqueta script?",
+      "Conectando HTML con JavaScript",
+      "Escuchando eventos con JavaScript",
+      "addEventListener",
+      "Manipulación del DOM",
+      "Enemigos aleatorios",
+      "Ataques en JavaScript",
+      "Ataques aleatorios del enemigo",
+      "Imprimiendo ataques del enemigo",
+      "¿Ganaste, perdiste o empataste?",
+      "Tablas de verdad",
+      "Creando el contador de vidas",
+      "¿Quién ganó el juego?",
+      "Reiniciando el juego",
+      "Ocultando elementos HTML con JavaScript para mejorar la UX del juego",
+      "Anatomía de CSS",
+      "Tipos de display",
+      "Flexbox",
+      "Modelo de caja",
+      "Imágenes para los Mokepones",
+      "Estilos del botón",
+      "Adaptando HTML al diseño del juego",
+      "Layout: título y ataques",
+      "Adapatndo JavaScript al diseño del juego",
+      "CSS Grid",
+      "Responsive Design",
+      "Revisión de código",
+      "Dont't repeat yourself (DRY)",
+      "Clases y objetos",
+      "Clases y objetos de Mokepon",
+      "Arrays o arreglos",
+      "Objetos vs. arreglos",
+      "Ciclos: Madipulado el DOM con iteradores",
+      "Declaración lenta de variable",
+      "Una sola fuente de la verdad",
+      "Mascotas aleatorias con arreglos",
+      "Ataques dinámicos por cada mascota: extraer",
+      "Renderizado dinamico en HTML",
+      "Eventos de click dinámicos",
+      "Secuencia de ataque del enemigo",
+      "Iniciando el combate",
+      "Resolviendo el reto de condicionales",
+      "Optimizando el frontend del juego",
+      "Introducción a CANVAS: Dibujando con JavaScript",
+      "Moviendo a Capipepo hacia la derecha",
+      "Movimiento hacia todas las direcciónes",
+      "Movimientos con el teclado",
+      "Imágenes y personajes de fondo",
+      "Métodos en las clases",
+      "Obstáculos y colisiones",
+      "Combate entre mokepones colisionados",
+      "Mapa responsive",
+      "Botones bonitos y viewport",
+      "¿Qué es backend?",
+      "Instalación de Node.js y NPM",
+      "Terminal de comandos y Node.js",
+      "Servidor web con Express.js",
+      "HTTP, localhost, servidores y puertos",
+      "Express.js y fetch: API REST con JavaScript",
+      "JSON y POST: mokepon online",
+      "Transmisión de coordenadas",
+      "Mokepones dinámicos en el mapa",
+      "Optimizando el mapa del juego",
+      "Batalla entre jugadores",
+      "Consumiendo la API de ataques del enemigo",
+      "Probando el juego en varios dispositivos"
+    ],
+    "imgName": "ProgramacionBasicaPlatzi.jpg",
+    "iconName": "platzi.png"
+  }
+]

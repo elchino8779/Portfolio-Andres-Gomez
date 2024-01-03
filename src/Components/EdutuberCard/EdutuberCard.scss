@@ -1,0 +1,31 @@
+.edutuber-card-container {
+  width: 150px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-decoration: none;
+  border-radius: 1rem;
+  border: 1px solid rgb(35, 35, 35, 0.5);
+  box-shadow: 0 0 4px rgb(35, 35, 35, 0.5);
+  background-color: rgba(35, 35, 35, 0.5);
+  backdrop-filter: blur(10px);
+  padding: 5px;
+  transition: 0.3s;
+
+  &:hover{
+    border: 1px solid rgb(126, 126, 126);
+    box-shadow: 0 0 7px rgb(126, 126, 126);
+  }
+
+  img {
+    width: 70%;
+    border-radius: 50%;
+  }
+
+  h4 {
+    font-size: 0.9rem;
+    text-shadow: 0 0 1px rgb(200, 200, 200);
+  }
+}

@@ -1,0 +1,81 @@
+.proyectos-page {
+  width: 100vw;
+  padding-top: 130px;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  animation-name: proyectos-page-fadein;
+  animation-duration: 0.7s;
+  animation-iteration-count: initial;
+
+  .proyectos-title-container {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 40px 25px;
+    border-radius: 2rem;
+    background-color: rgba(130, 130, 130, 0.05);
+    backdrop-filter: blur(10px);
+
+    .title-img-proyectos {
+      display: flex;
+      align-self: flex-start;
+      align-items: center;
+      gap: 15px;
+
+      img {
+        filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        text-shadow: 0px 0px 2px rgb(200, 200, 200);
+      }
+    }
+
+    .proyectos-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 30px;
+    }
+
+    footer{
+      font-size: 0.7rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      text-shadow: 0px 0px 2px rgb(200, 200, 200);
+
+      a{
+        display: flex;
+        align-items: center;
+
+        img{
+          width: 30px;
+          filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+        }
+      }
+    }
+  }
+}
+
+
+@keyframes proyectos-page-fadein {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  100% {
+    opacity: 1;
+    visibility: visible;
+  }
+}

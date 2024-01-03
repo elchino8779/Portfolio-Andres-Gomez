@@ -1,0 +1,159 @@
+.modal-certificaciones-container {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: grid;
+  place-content: center;
+  animation-name: modal-certificaciones-fadein;
+  animation-duration: 0.5s;
+  animation-iteration-count: initial;
+
+  .modal-certificaciones {
+    position: relative;
+    width: 900px;
+    border-radius: 1rem;
+    border: 1px solid rgb(125, 125, 125);
+    box-shadow: 0 0 4px rgb(125, 125, 125);
+    background-color: rgba(21, 21, 21, 0.9);
+    padding: 17px;
+    display: flex;
+
+    .close-icon-modal{
+      position: absolute;
+      z-index: 1;
+      top: -50px;
+      left: 50%;
+      transform: translateX(-50%);
+      filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      cursor: pointer;
+    }
+
+    .img-certificado-container {
+      width: 70%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      img {
+        width: 95%;
+        border-radius: 1rem;
+        box-shadow: 0 0 5px rgb(200, 200, 200);
+        filter: brightness(0.9);
+      }
+    }
+
+    .separador-modal{
+      width: 2px;
+      height: 100%;
+      background-color: rgb(206, 0, 0);
+      box-shadow: 0 0 5px rgb(206, 0, 0);
+    }
+
+    .text-certificado-container {
+      width: 30%;
+      max-height: 100%;
+      overflow-y: auto;
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+      padding: 25px;
+      gap: 15px;
+      border-radius: 0px 1rem 1rem 0px;
+      background-color: rgba(0, 0, 0, 0.3);
+
+      .icon-title-modal {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+
+
+        img {
+          width: 40px;
+          filter: drop-shadow(0 0 1px rgb(200, 200, 200));
+        }
+
+        h2 {
+          font-size: 1.05rem;
+          text-shadow: 0px 0px 1px rgb(200, 200, 200);
+        }
+      }
+
+      h3 {
+        font-size: 0.8rem;
+        text-shadow: 0px 0px 1px rgb(200, 200, 200);
+      }
+
+      .skills-certificado-container {
+        width: 100%;
+        padding: 5px;
+        max-height: 300px;
+        list-style-position: inside;
+
+        li {
+          font-size: 0.75rem;
+          margin-bottom: 5px;
+          text-shadow: 0px 0px 1px rgb(200, 200, 200);
+        }
+      }
+    }
+  }
+}
+
+@keyframes modal-certificaciones-fadein {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0px);
+  }
+}
+
+
+@media (width < 950px){
+  .modal-certificaciones-container{
+    .modal-certificaciones{
+      width: 90%;
+    }
+  }
+}
+
+@media (width < 760px){
+  .modal-certificaciones-container{
+    place-items: center;
+    .modal-certificaciones{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      max-height: 80vh;
+
+      .separador-modal{
+        margin-top: 20px;
+        width: 100%;
+        height: 2px;
+      }
+
+      .img-certificado-container{
+        width: 95%;
+      }
+
+      .text-certificado-container{
+        width: 100%;
+        border-radius: 0px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+    }
+  }
+}

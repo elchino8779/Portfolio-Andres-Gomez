@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Buscador de Peliculas",
+    "description": [
+      "Este proyecto fue creado con fines de practica",
+      "Desarrollado en ReactJs y Sass",
+      "Buscador de Peliculas y Series consumiendo la API de theMovieDB",
+      "Slider de imagenes principal, peliculas y series",
+      "Recomendadas, mas vista, populares, etc",
+      "Buscador por peliculas, series o ambas",
+      "Modal con información: Año, Puntuación, Imagenes, Tipo de contenido, etc",
+      "Totalmente responsivo"
+    ],
+    "imgsName": [
+      "BuscadorDePeliculas01.png",
+      "BuscadorDePeliculas02.png",
+      "BuscadorDePeliculas03.png",
+      "BuscadorDePeliculas04.png",
+      "BuscadorDePeliculas05.png"
+    ],
+    "videoName": "BuscadorDePeliculasVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/BuscadorDePeliculasYSeries",
+    "githubPages": "https://elchino8779.github.io/BuscadorDePeliculasYSeries/"
+  },
+  {
+    "title": "Carrito de Compras",
+    "description": [
+      "Este proyecto fue creado con fines de practica",
+      "Desarrollado en ReactJs y Sass",
+      "Simulacion de pagina con carrito de compras",
+      "Paginacion por secciones de productos con React Router",
+      "Caracteristicas e imagenes de productos en modales",
+      "Permite elegir cantidad de productos, eliminacion por unidad o total",
+      "Cantidad de precio actualizada con la modificación del carrito",
+      "Totalmente responsivo"
+    ],
+    "imgsName": [
+      "CarritoCompras01.png",
+      "CarritoCompras02.png",
+      "CarritoCompras03.png",
+      "CarritoCompras04.png",
+      "CarritoCompras05.png",
+      "CarritoCompras06.png",
+      "CarritoCompras07.png",
+      "CarritoCompras08.png",
+      "CarritoCompras09.png",
+      "CarritoCompras10.png",
+      "CarritoCompras11.png"
+    ],
+    "videoName": "CarritoComprasVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/carrito-compras-react",
+    "githubPages": "https://elchino8779.github.io/carrito-compras-react/"
+  },
+  {
+    "title": "Lista de Tareas",
+    "description": [
+      "Este proyecto fue creado con fines de practica",
+      "Desarrollado en ReactJs y Sass",
+      "Lista de tablas con ingreso de tareas por items",
+      "Permite agregado y eliminacion de tablas e items indefinidos",
+      "Edicion de nombres y detalles",
+      "Intercambio agil de items entre diferentes tablas",
+      "Persistencia de datos automatica en localStorage",
+      "Totalmente responsivo"
+    ],
+    "imgsName": [
+      "ListaDeTareas01.png",
+      "ListaDeTareas02.png",
+      "ListaDeTareas03.png",
+      "ListaDeTareas04.png",
+      "ListaDeTareas05.png",
+      "ListaDeTareas06.png",
+      "ListaDeTareas07.png",
+      "ListaDeTareas08.png",
+      "ListaDeTareas09.png"
+    ],
+    "videoName": "ListaDeTareasVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Lista-Tareas",
+    "githubPages": "https://elchino8779.github.io/Lista-Tareas/"
+  },
+  {
+    "title": "Clima del Mundo",
+    "description": [
+      "Este proyecto fue creado con fines de aprendizaje, utilizando la API de Tomorrow.io",
+      "Desarrollado en HTML, CSS y JavaScript sin frameworks",
+      "Pagina que permite conocer los datos de clima de cualquier parte del mundo",
+      "Busqueda por entrada de texto o geolocalizacion",
+      "Muestra las condiciones del clima actual y de los proximos 3 dias",
+      "Nubocidad, lluvia, nieve, temperatura media, maxima y minima, velocidad del viento, humedad, visibilidad y probabilidad de precipitaciones",
+      "Totalmente responsivo para uso en diferentes dispositivos"
+    ],
+    "imgsName": [
+      "ClimaDelMundo01.png",
+      "ClimaDelMundo02.png",
+      "ClimaDelMundo03.png",
+      "ClimaDelMundo04.png"
+    ],
+    "videoName": "ClimaDelMundoVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Proyecto-Climas-del-mundo",
+    "githubPages": "https://elchino8779.github.io/Proyecto-Climas-del-mundo/"
+  },
+  {
+    "title": "Editor de Imagenes",
+    "description": [
+      "Este proyecto fue creado confines de practica",
+      "Desarrollado en HTML, CSS y javaScript",
+      "Editor de imagenes .png, .jpg, .bmp, etc",
+      "Permite aplicar diferentes filtros de color, retoques de brillo, contraste, etc, redimensión de imagenes, rotación, estilos de sombra y bordes, opacidad y saturacion, entre otras",
+      "Totalmente responsivo"
+    ],
+    "imgsName": [
+      "EditorDeImagenes01.png",
+      "EditorDeImagenes02.png",
+      "EditorDeImagenes03.png",
+      "EditorDeImagenes04.png",
+      "EditorDeImagenes05.png",
+      "EditorDeImagenes06.png"
+    ],
+    "videoName": "EditorDeImagenesVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Editor-de-Imagenes",
+    "githubPages": "https://elchino8779.github.io/Editor-de-Imagenes/"
+  },
+  {
+    "title": "Calculadora ReactJs",
+    "description": [
+      "Este proyecto fue creado para la plataforma freeCodeCamp",
+      "Desarrollado totalmente en ReactJs",
+      "Calculadora con las 4 operaciones basicas: suma, resta, multiplicaion y division",
+      "Manejo de errores de operaciones",
+      "Boton borrar y atras"
+    ],
+    "imgsName": [
+      "CalculadoraReact01.png",
+      "CalculadoraReact02.png",
+      "CalculadoraReact03.png"
+    ],
+    "videoName": "CalculadoraReactJsVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Calculadora-ReactJs",
+    "githubPages": "https://elchino8779.github.io/Calculadora-ReactJs/"
+  },
+  {
+    "title": "Página Web con BootStrap",
+    "description": [
+      "Página de contenido basada en una web con fines educativos",
+      "Desarrollado en HTML, CSS y BootStrap",
+      "Este proyecto fue creado para el curso del Edutuber JonMircha",
+      "Se utilizaron y modificaron clases de BootStrap",
+      "Se utilizaron diferentes componentes como carruseles de imágenes, apis de Google Maps, formularios, etc",
+      "Totalmente resposiva utilizando mediaQuerys de BootStrap"
+    ],
+    "imgsName": [
+      "ProyectoBootStrap01.png",
+      "ProyectoBootStrap02.png",
+      "ProyectoBootStrap03.png",
+      "ProyectoBootStrap04.png",
+      "ProyectoBootStrap05.png",
+      "ProyectoBootStrap06.png",
+      "ProyectoBootStrap07.png",
+      "ProyectoBootStrap08.png",
+      "ProyectoBootStrap09.png"
+    ],
+    "videoName": "ProyectoBootStrapVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Pagina-Curso-Bootstrap",
+    "githubPages": "https://elchino8779.github.io/Pagina-Curso-Bootstrap/"
+  },
+  {
+    "title": "Control de Horario",
+    "description": [
+      "Este proyecto fue creado con fines de practica",
+      "Desarrollado en HTML, CSS y javaScript",
+      "Busca facilitar la carga de horas de una persona, calculando horas extras, feriados, sábados y domingos, devolviendo una cantidad estimada de horas trabajadas y su correspondiente remuneración.",
+      "Permite a las personas que trabajan por hora/quincena llevar un control de horas",
+      "Carga de año, mes y quincena actualizada",
+      "Carga de horario de entrada y salida",
+      "Permite elegir dias feriados",
+      "Carga de valor por hora trabajada",
+      "Retorna un valor estimado de la remuneracion bruta a cobrar",
+      "Totalmente responsivo"
+    ],
+    "imgsName": [
+      "ControlDeHorario02.png",
+      "ControlDeHorario01.png"
+    ],
+    "videoName": "ControlDeHorarioVideo.mp4",
+    "githubRepo": "https://github.com/elchino8779/Programa-Control_De-Horario",
+    "githubPages": "https://elchino8779.github.io/Programa-Control_De-Horario/"
+  },
+  {
+    "title": "Encriptador de Texto",
+    "description": [
+      "Este proyecto fue creado para la formación de Alura Latam",
+      "Desarrollado en HTML, CSS y JavaScript",
+      "Encripta y desencripta textos (no admite letras mayusculas ni acentos)",
+      "Encripta texto a traves de una clave",
+      "Desencripta texto a traves de la misma clave generada por el encriptador",
+      "Totalmente Responsivo"
+    ],
+    "imgsName": [
+      "EncriptadorTexto02.png",
+      "EncriptadorTexto03.png",
+      "EncriptadorTexto04.png",
+      "EncriptadorTexto01.png"
+    ],
+    "videoName": "EncriptadorAlura.mp4",
+    "githubRepo": "https://github.com/elchino8779/proyecto-alura-encriptador",
+    "githubPages": "https://elchino8779.github.io/proyecto-alura-encriptador/"
+  }
+]

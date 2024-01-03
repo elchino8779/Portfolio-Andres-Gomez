@@ -1,0 +1,60 @@
+.contacto-page {
+  width: 100vw;
+  padding-top: 130px;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  animation-name: proyectos-page-fadein;
+  animation-duration: 0.7s;
+  animation-iteration-count: initial;
+
+  .contacto-title-container {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 40px 25px;
+    border-radius: 2rem;
+    background-color: rgba(130, 130, 130, 0.05);
+    backdrop-filter: blur(10px);
+
+    .title-img-contacto {
+      display: flex;
+      align-self: flex-start;
+      align-items: center;
+      gap: 15px;
+
+      img {
+        filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        text-shadow: 0px 0px 2px rgb(200, 200, 200);
+      }
+    }
+  }
+
+  .contact-url-container{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+
+    img{
+      width: 50px;
+      filter: drop-shadow(0 0 2px rgb(206, 0, 0));
+      transition: 0.3s;
+
+      &:hover{
+        transform: scale(1.05);
+      }
+    }
+  }
+}

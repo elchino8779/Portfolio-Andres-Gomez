@@ -1,0 +1,54 @@
+[
+  {
+    "name": "HTML",
+    "imgName": "html.svg"
+  },
+  {
+    "name": "CSS",
+    "imgName": "css.svg"
+  },
+  {
+    "name": "JavaScript",
+    "imgName": "javascript.svg"
+  },
+  {
+    "name": "BootStrap",
+    "imgName": "bootstrap.svg"
+  },
+  {
+    "name": "Tailwind",
+    "imgName": "tailwind.svg"
+  },
+  {
+    "name": "Sass",
+    "imgName": "sass.svg"
+  },
+  {
+    "name": "React",
+    "imgName": "react.svg"
+  },
+  {
+    "name": "Vite",
+    "imgName": "vite.png"
+  },
+  {
+    "name": "Java",
+    "imgName": "java.svg"
+  },
+  {
+    "name": "SpringBoot",
+    "imgName": "spring.svg"
+  },
+  {
+    "name": "MySQL",
+    "imgName": "mysql.svg"
+  },
+  {
+    "name": "Git",
+    "imgName": "git.svg"
+  },
+  {
+    "name": "GitHub",
+    "imgName": "github.svg"
+  }
+]
