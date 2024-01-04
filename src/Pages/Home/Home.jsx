@@ -10,6 +10,8 @@ import { useSelectorContext } from '../../Context/SelectorContext'
 import PrincipalCard from '../../Components/PrincipalCard/PrincipalCard';
 import UpIcon from '/Icons/up.svg'
 import DownIcon from '/Icons/down.svg'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const Home = () => {
 
@@ -65,7 +67,7 @@ const Home = () => {
         to={toSectionButton}
         smooth={true}
         duration={500}>
-        <img src={iconButton} alt="Down" />
+        <LazyLoadImage src={iconButton} alt="Down" effect='blur'/>
       </Link>
 
       <Element name='section-1'>

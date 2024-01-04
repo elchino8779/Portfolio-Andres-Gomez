@@ -7,6 +7,8 @@ import ProyectCard from '../../Components/ProyectCard/ProyectCard';
 import proyectJSON from '../../assets/proyectos.json'
 import ModalVideo from '../../Components/ModalVideo/ModalVideo';
 import githubIcon from '/ImgContacto/github.svg'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const Proyectos = () => {
 
@@ -22,13 +24,13 @@ const Proyectos = () => {
       <ModalVideo />
       <div className="proyectos-title-container">
         <div className="title-img-proyectos">
-          <img src={proyectIcon} alt="Icon" />
+          <LazyLoadImage src={proyectIcon} alt="Icon" effect='blur'/>
           <h2>Proyectos personales</h2>
         </div>
         <div className="proyectos-container">
           {proyectJSON.map(el => <ProyectCard key={el.title} el={el}/>)}
         </div>
-        <footer>*Si desea conocer la totalidad de mis proyectos, lo invito a visitar mi perfil de GitHub <a href='https://github.com/elchino8779' target='_blank'><img src={githubIcon}></img></a></footer>
+        <footer>*Si desea conocer la totalidad de mis proyectos, lo invito a visitar mi perfil de GitHub <a href='https://github.com/elchino8779' target='_blank'><LazyLoadImage src={githubIcon} effect='blur'/></a></footer>
       </div>
     </div>
   )

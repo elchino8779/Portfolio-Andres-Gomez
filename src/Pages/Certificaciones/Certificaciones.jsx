@@ -10,6 +10,8 @@ import edutubersJSON from '../../assets/edutubers.json'
 import EdutuberCard from '../../Components/EdutuberCard/EdutuberCard'
 import ModalCertificaciones from '../../Components/ModalCertificaciones/ModalCertificaciones'
 import ImgTecnologias from '../../assets/lenguajes.json'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const Certificaciones = () => {
 
@@ -26,13 +28,13 @@ const Certificaciones = () => {
 
       <div className="certificaciones-title-container">
         <div className="title-img-certificate">
-          <img src={codeIcon} alt="Icon" loading='eager'/>
+          <LazyLoadImage src={codeIcon} alt="Icon" effect='blur'/>
           <h2>Lenguajes y tecnologías</h2>
         </div>
         <div className="lenguajes-tecnologias-container">
           {ImgTecnologias.map((el, index) =>
             <div key={index} className='img-name-container'>
-              <img src={`./ImgTecnologias/${el.imgName}`} alt={el.name} loading='eager'/>
+              <LazyLoadImage src={`./ImgTecnologias/${el.imgName}`} alt={el.name} effect='blur'/>
               <p>{el.name}</p>
             </div>)}
         </div>
@@ -40,7 +42,7 @@ const Certificaciones = () => {
 
       <div className="certificaciones-title-container">
         <div className="title-img-certificate">
-          <img src={certificateIcon} alt="Icon" />
+          <LazyLoadImage src={certificateIcon} alt="Icon" effect='blur'/>
           <h2>Certificaciones</h2>
         </div>
         <div className="certificaciones-container">
@@ -50,7 +52,7 @@ const Certificaciones = () => {
 
       <div className="certificaciones-title-container">
         <div className="title-img-certificate">
-          <img src={youTubeIcon} alt="Icon" />
+          <LazyLoadImage src={youTubeIcon} alt="Icon" effect='blur'/>
           <h2>EduTubers</h2>
         </div>
         <div className="edutubers-container">

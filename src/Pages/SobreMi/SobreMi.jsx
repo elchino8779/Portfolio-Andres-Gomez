@@ -14,6 +14,8 @@ import sablesImg from '/IconosSobreMi/sables2.png'
 import sinRetornoImg from '/IconosSobreMi/sinRetorno.png'
 import graciasImg from '/IconosSobreMi/gracias.png'
 import solImg from '/IconosSobreMi/sol.png'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const SobreMi = () => {
 
@@ -28,7 +30,7 @@ const SobreMi = () => {
     <div className='sobre-mi-page'>
       <div className="sobre-mi-title-container">
         <div className="title-img-sobre-mi">
-          <img src={aboutIcon} alt="Icon" />
+          <LazyLoadImage src={aboutIcon} alt="Icon" effect='blur'/>
           <h2>Sobre mi</h2>
         </div>
         <AboutCard img={libroImg} texts={sobreMi.parrafo1}/>

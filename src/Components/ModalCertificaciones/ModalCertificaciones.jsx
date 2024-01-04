@@ -2,6 +2,8 @@ import React from 'react'
 import './ModalCertificaciones.scss'
 import { useModalContext } from '../../Context/ModalContext'
 import closeIcon from '/Icons/close.svg'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const ModalCertificaciones = () => {
 
@@ -14,7 +16,7 @@ const ModalCertificaciones = () => {
           <div className="modal-certificaciones" onClick={(e) => e.stopPropagation()}>
             <img className='close-icon-modal' src={closeIcon} alt="Close" onClick={handleVisibilityFalse}/>
             <div className="img-certificado-container">
-              <img src={`./CertificadosPortfolio/${contentModal.imgName}`} alt="Certificado" loading='eager'/>
+              <LazyLoadImage src={`./CertificadosPortfolio/${contentModal.imgName}`} alt="Certificado" effect='blur'/>
             </div>
             <div className="separador-modal"></div>
             <div className="text-certificado-container">
