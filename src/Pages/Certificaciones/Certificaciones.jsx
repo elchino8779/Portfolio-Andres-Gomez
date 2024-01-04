@@ -26,13 +26,13 @@ const Certificaciones = () => {
 
       <div className="certificaciones-title-container">
         <div className="title-img-certificate">
-          <img src={codeIcon} alt="Icon" />
+          <img src={codeIcon} alt="Icon" loading='eager'/>
           <h2>Lenguajes y tecnologías</h2>
         </div>
         <div className="lenguajes-tecnologias-container">
           {ImgTecnologias.map((el, index) =>
             <div key={index} className='img-name-container'>
-              <img src={`./ImgTecnologias/${el.imgName}`} alt={el.name} />
+              <img src={`./ImgTecnologias/${el.imgName}`} alt={el.name} loading='eager'/>
               <p>{el.name}</p>
             </div>)}
         </div>

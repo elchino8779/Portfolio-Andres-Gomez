@@ -20,7 +20,7 @@ const PrincipalCard = ({refer, id}) => {
           <h4>Web Developer Frontend</h4>
         </div>
         <div className="img-container-principal">
-          <img src={avatar} alt="Avatar" onMouseEnter={handleAvatar} onMouseOut={handleAvatar}/>
+          <img src={avatar} alt="Avatar" onMouseEnter={handleAvatar} onMouseOut={handleAvatar} loading='eager'/>
         </div>
       </div>
     </div>

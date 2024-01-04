@@ -8,7 +8,7 @@ const HomeCard = ({avatar, title, description1, description2, url, right, refer,
     <div ref={refer} className='home-card-container' id={id}>
       <div className={right ? 'home-card-right' : 'home-card'}>
         <div className="img-container-home" >
-          <img src={avatar} alt="Avatar" />
+          <img src={avatar} alt="Avatar" loading='lazy'/>
         </div>
         <div className="text-container-home" >
           <h2>{title}</h2>

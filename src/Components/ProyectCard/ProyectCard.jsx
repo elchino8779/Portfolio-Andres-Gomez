@@ -43,7 +43,7 @@ const ProyectCard = ({ el }) => {
       {btnPlay && <img className='icon-play' src={iconPlay} alt="Play" onClick={() => handleVisibilityTrue(el)}/>}
       <h2>{el.title}</h2>
       <div className="imgs-proyect-container" style={{ transform: `translateX(${translate}px)` }}>
-        {el.imgsName.map((el, index) => <img loading='lazy' ref={handleObserver} className='img-proyect' key={index} src={`./ImgProyectos/${el}`} alt='Img' />)}
+        {el.imgsName.map((el, index) => <img loading='eager' ref={handleObserver} className='img-proyect' key={index} src={`./ImgProyectos/${el}`} alt='Img' />)}
       </div>
     </div>
   )

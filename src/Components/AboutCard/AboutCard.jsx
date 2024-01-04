@@ -6,7 +6,7 @@ const AboutCard = ({ img, texts, right }) => {
     <div className='about-card-container'>
       <div className={right ? 'img-text-about-right' : 'img-text-about'}>
         <div className="img-about">
-          <img src={img} alt="Imagen" />
+          <img src={img} alt="Imagen" loading='eager' />
         </div>
         <div className="text-about">
           <h3>{texts.title}</h3>

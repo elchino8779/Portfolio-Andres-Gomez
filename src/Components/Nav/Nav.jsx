@@ -15,7 +15,7 @@ const Nav = () => {
   return (
     <nav className='nav-container'>
       <div className="logo-texts">
-        <img src={AvatarLentes} alt="Avatar" />
+        <img src={AvatarLentes} alt="Avatar" loading='eager'/>
         <div className="text">
           <h1>Andres Gomez</h1>
           <h3>Web Developer Frontend</h3>
@@ -28,23 +28,23 @@ const Nav = () => {
 
           <NavLink className='link-nav' to='/' onClick={() => handleSelector('32px', '60px')}>
             <p>Home</p>
-            <img src={homeIcon} alt="Home" />
+            <img src={homeIcon} alt="Home" loading='eager'/>
           </NavLink>
-          <NavLink className='link-nav' to='/certificaciones' >
+          <NavLink className='link-nav' to='/certificaciones'>
             <p>Certificaciones</p>
-            <img src={certificacionesIcon} alt="Certificaciones" />
+            <img src={certificacionesIcon} alt="Certificaciones" loading='eager'/>
           </NavLink>
           <NavLink className='link-nav' to='/proyectos' >
             <p>Proyectos</p>
-            <img src={proyectsIcon} alt="Proyectos" />
+            <img src={proyectsIcon} alt="Proyectos" loading='eager'/>
           </NavLink>
           <NavLink className='link-nav' to='/sobremi' >
             <p>Sobre Mí</p>
-            <img src={aboutIcon} alt="Sobre Mí" />
+            <img src={aboutIcon} alt="Sobre Mí" loading='eager'/>
           </NavLink>
           <NavLink className='link-nav' to='/contacto' >
             <p>Contacto</p>
-            <img src={contactIcon} alt="Contacto" />
+            <img src={contactIcon} alt="Contacto" loading='eager'/>
           </NavLink>
         </div>
       </div>

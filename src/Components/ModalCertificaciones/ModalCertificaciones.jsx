@@ -14,7 +14,7 @@ const ModalCertificaciones = () => {
           <div className="modal-certificaciones" onClick={(e) => e.stopPropagation()}>
             <img className='close-icon-modal' src={closeIcon} alt="Close" onClick={handleVisibilityFalse}/>
             <div className="img-certificado-container">
-              <img src={`./CertificadosPortfolio/${contentModal.imgName}`} alt="Certificado" />
+              <img src={`./CertificadosPortfolio/${contentModal.imgName}`} alt="Certificado" loading='eager'/>
             </div>
             <div className="separador-modal"></div>
             <div className="text-certificado-container">

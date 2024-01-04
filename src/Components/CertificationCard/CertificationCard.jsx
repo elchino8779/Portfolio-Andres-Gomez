@@ -8,7 +8,7 @@ const CertificationCard = ({ el }) => {
 
   return (
     <div className='card-container' onClick={() => handleVisibilityTrue(el)}>
-      <img className='img-card' src={`./IconosCursos/${el.iconName}`} alt="Icon" />
+      <img className='img-card' src={`./IconosCursos/${el.iconName}`} alt="Icon" loading='lazy'/>
       <div className="text-card">
         <h5>{el.name}</h5>
         <p>{el.description}</p>
